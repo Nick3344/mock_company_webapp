@@ -1,4 +1,4 @@
-import { createServer } from "miragejs"
+import { createServer } from "miragejs" 
 
 import image1 from "./images/1.png"
 import image2 from "./images/2.png"
